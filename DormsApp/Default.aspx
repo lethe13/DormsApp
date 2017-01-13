@@ -5,7 +5,7 @@
     <div class="jumbotron">
         <h1>I AM NOT AN ARTIST</h1>
         <p class="lead">Blah Blah Blah</p>
-        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+        
     </div>
 
     <div class="row">
